@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img height="150" src="https://th.bing.com/th/id/OIP.YuBO8JxAE96sLX7jT8CmigHaEQ?rs=1&pid=ImgDetMain"  />
-</div>
-
-###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=simee56.simee56&left_color=darkcyan"  />
 
 ###
