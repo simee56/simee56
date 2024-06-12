@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h1 align="center">hey there 👋 I'm Simee Pandey from India.</h1>
+  <h1 align="center">Hey there 👋 I'm Simee Pandey from India.</h1>
 
 ###
 
