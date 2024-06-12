@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="150" src="image/me.jpg/"  />
+  <img height="150" src="https://th.bing.com/th/id/OIP.YuBO8JxAE96sLX7jT8CmigHaEQ?rs=1&pid=ImgDetMain"  />
 </div>
 
 ###
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">- 🔭 I’m a student.<br>- 📚 I'm currently learning web designing.<br>- ⚡ I love to grow plants.</p>
+<p align="left">- 🔭 I’m a student.<br>- 📚 I'm currently learning web designing.<br>- ⚡ I love to grow plants. <br>- contact me through : pandeysimee7@gmail.com</p>
 
 ###
 
