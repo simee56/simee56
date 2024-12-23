@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pandeysimee7@gmail.com**
 
-- ⚡ Fun fact **My humour is broken**
+- ⚡ Fun fact **My humour is broken.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
