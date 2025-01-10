@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/MdCwwLF6g7cAAAAd/rage-anime.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simee56&label=Profile%20views&color=0e75b6&style=flat" alt="simee56" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **pandeysimee7@gmail.com**
 
