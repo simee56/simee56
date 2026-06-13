@@ -14,7 +14,8 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A970FF&center=false&vCenter=true&width=435&lines=Building+web+applications...;Exploring+AI+technologies...;Solving+real-world+problems..." alt="Typing SVG" />
       </p>
       <p>📍 Based in <b>India</b></p>
-      <p>📝 Passionate developer focused on building modern web applications, optimizing workflows, and writing clean, efficient code to solve complex, real-world problems.</p>
+      <!-- Updated Bio with professional DSA emphasis -->
+      <p>📝 Passionate developer focused on building modern web applications, optimizing workflows, and writing clean, efficient code. I have a strong foundation in Data Structures and Algorithms (DSA) and thoroughly enjoy leveraging algorithmic problem-solving to build scalable, optimized solutions for complex, real-world challenges.</p>
       <!-- Integrated Learning & Connect right in the intro to save major space -->
       <b>📖 Currently Learning:</b> &nbsp;
       <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white" alt="React" /> &nbsp;
@@ -80,7 +81,7 @@
       <a href="https://www.linkedin.com/in/simee-pandey-16ba072b9/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a> &nbsp;
-      <a href="https://www.instagram.com/simeetype_/" target="_blank">
+      <a href="https://instagram.com/your-profile" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
       </a>
       <br/>
