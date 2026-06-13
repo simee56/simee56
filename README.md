@@ -80,7 +80,7 @@
       <a href="https://www.linkedin.com/in/simee-pandey-16ba072b9/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a> &nbsp;
-      <a href="https://instagram.com/your-profile" target="_blank">
+      <a href="https://www.instagram.com/simeetype_/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
       </a>
       <br/>
