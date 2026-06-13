@@ -1,25 +1,85 @@
-<h1 align="center">Hi 👋, I'm Simee Pandey.</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Visitor Count" />
+</div>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8627c06a96d624e240f8e7101755782f8d337b513e99e417af51cb983985c358/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f38352f31382f65313835313863366432343235376336666230326533633935613836326438352e676966">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simee56&label=Profile%20views&color=0e75b6&style=flat" alt="simee56" /> </p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="60%">
+      <h1>Hi 👋, I'm <a href="https://your-portfolio.com" target="_blank">Simee Pandey</a></h1>
+      <h3>🚀 Full Stack Developer | Problem Solver</h3>
+      <p align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A970FF&center=false&vCenter=true&width=435&lines=Building+web+applications...;Exploring+AI+technologies...;Solving+real-world+problems..." alt="Typing SVG" />
+      </p>
+      <p>📍 Based in <b>India</b></p>
+      <p>📝 Passionate developer who enjoys building web applications and solving real-world problems through code.</p>
+    </td>
+    <td valign="top" width="40%" align="right">
+      <!-- Your Updated GIF -->
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVqdTZvNHptdTBxMGQyNHQ5MjltdHRibzN0cHAyMDk1eWxoNnByMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDxVzsDgLo3rLQzVlc/giphy.gif" width="320" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **React**
+---
 
-- 📫 How to reach me **pandeysimee7@gmail.com**
-
-- ⚡ Fun fact **Anything can make me cry or laugh.**
-
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Languages and Tools
 <p align="left">
-<a href="https://linkedin.com/in/simee pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simee pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/simee__56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simee__56" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <br/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <br/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simee56&show_icons=true&locale=en&layout=compact" alt="simee56" /></p>
+## 📖 Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/React-Learning-blue?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-Exploring-black?style=flat-square&logo=nextdotjs" alt="Next.js" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simee56&" alt="simee56" /></p>
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=a970ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula&hide_border=true&background=0d1117&ring=a970ff&fire=ff5c5c&currStreakLabel=a970ff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0d1117&hide_border=true&color=a970ff" alt="Contribution Graph" width="48%" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/simee-pandey-16ba072b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+📥 Feel free to reach out via email at: **pandeysimee7@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+> 💡 *Anything can make me laugh or cry!*
