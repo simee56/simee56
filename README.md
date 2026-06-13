@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/simee56/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=simee56&color=a970ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
-
----
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
