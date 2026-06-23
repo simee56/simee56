@@ -88,7 +88,7 @@
       📬 Contact: <a href="mailto:pandeysimee7@gmail.com">pandeysimee7@gmail.com</a>
     </td>
     <td valign="middle" width="50%" align="right">
-      <i>⚡<b>Fun Fact:</b> Anything can make me laugh or cry!</i>
+      ⚡<b>Fun Fact:</b> Anything can make me laugh or cry!
     </td>
   </tr>
 </table>
