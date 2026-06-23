@@ -76,7 +76,7 @@
 <!-- Consolidated footer section to keep page structure extremely tight and neat -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td valign="middle" width="50%">
+    <td valign="middle">
       <b>🤝 Connect With Me:</b> &nbsp;
       <a href="https://www.linkedin.com/in/simee-pandey-16ba072b9/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -87,7 +87,7 @@
       <br/>
       📬 Contact: <a href="mailto:pandeysimee7@gmail.com">pandeysimee7@gmail.com</a>
     </td>
-    <td valign="middle" width="50%" align="right">
+    <td valign="middle" align="right">
       ⚡<b>Fun Fact:</b> Anything can make me laugh or cry!
     </td>
   </tr>
