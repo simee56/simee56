@@ -52,24 +52,16 @@
 ---
 
 ### 📊 GitHub Performance Metrics
-<table align="center" border="0" cellpadding="2" cellspacing="2" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=simee56&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=a970ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simee56&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=simee56&theme=dracula&hide_border=true&background=0d1117&ring=a970ff&fire=ff5c5c&currStreakLabel=a970ff" alt="GitHub Streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=simee56&theme=react-dark&bg_color=0d1117&hide_border=true&color=a970ff" alt="Contribution Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simee56&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=a970ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simee56&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simee56&theme=dracula&hide_border=true&background=0d1117&ring=a970ff&fire=ff5c5c&currStreakLabel=a970ff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simee56&theme=react-dark&bg_color=0d1117&hide_border=true&color=a970ff" alt="Contribution Graph" width="48%" />
+</p>
 
 ---
 
