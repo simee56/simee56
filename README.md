@@ -66,14 +66,6 @@
 
 ---
 
-### 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/simee__56?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" width="60%" />
-</p>
-
----
-
 <!-- Consolidated footer section to keep page structure extremely tight and neat -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
@@ -84,6 +76,9 @@
       </a> &nbsp;
       <a href="https://www.instagram.com/simeetype_/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+      </a> &nbsp;
+      <a href="https://leetcode.com/simee__56/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
       </a>
       <br/>
       📬 Contact: <a href="mailto:pandeysimee7@gmail.com">pandeysimee7@gmail.com</a>
