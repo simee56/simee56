@@ -66,6 +66,14 @@
 
 ---
 
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/simee__56?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" width="60%" />
+</p>
+
+---
+
 <!-- Consolidated footer section to keep page structure extremely tight and neat -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
