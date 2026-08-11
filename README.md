@@ -54,8 +54,8 @@
 ### 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simee56&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=a970ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simee56&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simee56&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=a970ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simee56&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
