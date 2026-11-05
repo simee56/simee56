@@ -71,7 +71,7 @@
   <tr>
     <td valign="middle">
       <b>🤝 Connect With Me:</b> &nbsp;
-      <a href="https://www.linkedin.com/in/simee-pandey-16ba072b9/" target="_blank">
+      <a href="https://www.linkedin.com/in/simeetype" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a> &nbsp;
       <a href="https://www.instagram.com/simeetype_/" target="_blank">
